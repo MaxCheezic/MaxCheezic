@@ -1,4 +1,5 @@
 -Hi, I’m Max Cheezic. <br>
+-I'm 16 years old, born January 7th, 2005. 
 -I’m interested in video games and learning how to code.<br>
 -I’m currently learning how to code in AP Computer Science Principles.<br>
 -Reach me at mcheezic@gmail.com, through my phone (message me for it), or through Discord (message me for it). <br>
